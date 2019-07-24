@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5406f190-9041-4305-84ab-4df0de684af2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/HomePage.js" afterDir="false" />
-    </list>
+    <list default="true" id="5406f190-9041-4305-84ab-4df0de684af2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +211,7 @@
       <option name="presentableId" value="Default" />
       <updated>1563457581529</updated>
       <workItem from="1563457599768" duration="10751000" />
-      <workItem from="1563490873022" duration="4156000" />
+      <workItem from="1563490873022" duration="4428000" />
     </task>
     <task id="LOCAL-00001" summary="yey">
       <created>1563466265999</created>
@@ -239,15 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563469849778</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added some button and header styles with semantic ui">
+      <created>1563496103565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563496103565</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14907000" />
+    <option name="totallyTimeSpent" value="15179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15555556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -277,7 +278,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yey" />
     <MESSAGE value="nnn" />
-    <option name="LAST_COMMIT_MESSAGE" value="nnn" />
+    <MESSAGE value="Added some button and header styles with semantic ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some button and header styles with semantic ui" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.css" />
